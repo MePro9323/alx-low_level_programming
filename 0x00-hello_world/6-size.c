@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
-*main - A program prints the size of various computer type
-* Return always 0 (Success)
-*/
+ *main - A program prints the size of various computer type
+ * Return always 0 (Success)
+ */
 int main(void)
 {
 	char a;
