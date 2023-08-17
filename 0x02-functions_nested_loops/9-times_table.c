@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * time_table - Prints the 9 times table, starting with 0.
- * Return: empty outpout
+ * times_table - Prints the 9 times table, starting with 0.
+ * Return: Empty outpout
  */
 void times_table(void)
 {
